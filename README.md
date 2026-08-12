@@ -142,7 +142,11 @@ plant-disease-detection/
     └── plantvillage/
 
 
-    👨‍💻 Author
+
+
+
+
+👨‍💻 Author
 
 Shivendra Pratap Singh
 
